@@ -20,11 +20,13 @@ Your own original Digimon World (USA) `.bin` file, untouched. This mod doesn't i
 A PlayStation emulator, such as DuckStation.
 
 How to install
+
 Pick one of these. Each one leaves your original file unchanged.
 Windows (easiest)
 Unzip `SukAPOCALYPSE_0.5_Patcher.zip`.
 Put `SukAPOCALYPSE_0.5_Patcher.exe` in the same folder as your original `.bin`.
 Double-click it. It makes `sukapocalypse.bin` and `sukapocalypse.cue` next to your original.
+
 Phone or any browser
 Unzip `SukAPOCALYPSE_0.5_Android_Patcher.zip`.
 Open the `.html` page in Chrome, Firefox or Samsung Internet.
